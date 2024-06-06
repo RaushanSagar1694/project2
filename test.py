@@ -1,4 +1,6 @@
 
+# WAP TO REMOVE ALL INT VALUE IN GIVEN STRING
+
 def removeCharacter(str):
     result =""
     
