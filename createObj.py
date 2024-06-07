@@ -11,9 +11,8 @@ class Demo:
         self.str = str(input("Enter input : "))
     
     def printString(self):
-        self.str = self.str.upper()
         
-        print("upper case is :", self.str)    
+        print("upper case is :", self.str.upper())    
 
 obj = Demo()
 obj.getString()
